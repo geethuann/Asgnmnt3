@@ -1,0 +1,2 @@
+2015-12-07 07:01:36 Warning: Warning (512): (ClassRegistry::init() could not create instance of User class Model  in [C:\wamp\www\web\cake\libs\class_registry.php, line 154]
+2015-12-07 07:01:58 Warning: Warning (512): (ClassRegistry::init() could not create instance of User class Model  in [C:\wamp\www\web\cake\libs\class_registry.php, line 154]
